@@ -1,7 +1,7 @@
 # sql-challenge
 Module 9 Challenge - SQL
 
-As a new data engineer at Pewlett Hackard (a fictional company). the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files.
+As a new data engineer at Pewlett Hackard (a fictional company), the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files.
 
 ## Table of Contents
 
