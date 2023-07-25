@@ -13,7 +13,7 @@ As a new data engineer at Pewlett Hackard (a fictional company), the first major
 
 ## About
 The purpose of this project was to perform:
-- Data Modelling: design six tables to hold the data from the six CSV files.
+- Data Modelling: design six tables to hold the data from the six CSV file.
 - Data engineering: import the CSV files into a new SQL database, and using sql language to manipulate data.
 - Data analysis: answer some questions about the data.
 
