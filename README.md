@@ -1,7 +1,7 @@
 # sql-challenge
 Module 9 Challenge - SQL
 
-Data Modelling, Data Engineering and Data Analysis
+As a new data engineer at Pewlett Hackard (a fictional company). the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files.
 
 ## Table of Contents
 
@@ -12,19 +12,22 @@ Data Modelling, Data Engineering and Data Analysis
 - [Contributing](#contributing)
 
 ## About
-The purpose of this project is to create a SQL database to hold data from csv files relating to employee information. The data was then manipulated to perform some analysis.
-
-In this project, the following programs/software are used:
-- Microsoft Excel: to view csv files.
-- QuickDBD: to sketch and Entity Relationship Diagram (ERD) of the tables in the csv files.
-- PostgreSQL: PostgreSQL, which people typically refer to as just Postgres, is a relational database management system (RDBMS). An RDBMS consists of tables and their predefined relationships. Postgres stores the data.
-- pgAdmin: The pgAdmin tool functions as the window into your database. It's where you write your queries, run those queries, and then review the results of running them. pgAdmin provides access to that data.
+The purpose of this project was to perform:
+- Data Modelling: design six tables to hold the data from the six CSV files.
+- Data engineering: import the CSV files into a new SQL database, and using sql language to manipulate data.
+- Data analysis: answer some questions about the data.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+Programs/software used:
+- Microsoft Excel: to view csv files. Should be available by default on all PCs.
+- QuickDBD: to sketch an Entity Relationship Diagram (ERD) of the tables in the csv files. (http://www.quickdatabasediagrams.com/) No need to register, diagram can be generated on the website for free.
+- PostgreSQL: is a relational database management system (RDBMS). An RDBMS consists of tables and their predefined relationships. Postgres stores the data. Refer to "Installing" section below.
+- pgAdmin: The pgAdmin tool functions as the window into the database. It's where queries are written, run and then the results of running them are reviewed. pgAdmin provides access to that data. Refer to "Installing" section below.
+
 ## Installing
-To install PostgreSQL & pgAdmin: 
+In order to perform the Data Engineering and Analysis component of this project, install PostgreSQL & pgAdmin: 
 - In your browser, go to Download PostgreSQLLinks: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads.
 - Select the download option for your operating system and the latest version 14.x of PostgreSQL.
 - After downloading the latest version of PostgreSQL 14.x, double-click the postgresql-14.7-2-windows-x64.exe file. Note: The exact file version may be slightly different.
