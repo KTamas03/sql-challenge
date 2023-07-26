@@ -1,7 +1,7 @@
 # sql-challenge
 Module 9 Challenge - SQL
 
-As a new data engineer at Pewlett Hackard (a fictional company), the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files.
+As a new data engineer at Pewlett Hackard (a fictional company), the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files (folder location: data > departments.csv, dep_emp.csv, dept_manager.csv, employees.csv, salaries.csv and titles.csv).
 
 ## Table of Contents
 
@@ -13,16 +13,14 @@ As a new data engineer at Pewlett Hackard (a fictional company), the first major
 
 ## About
 The purpose of this project was to perform:
-- Data Modelling: design six tables to hold the data from the six CSV file.
+- Data Modelling: design an Entity Relationship Diagram (ERD) of six tables to hold the data from the six CSV files (mentioned above).
 - Data engineering: import the CSV files into a new SQL database, and using sql language to manipulate data.
 - Data analysis: answer some questions about the data.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 Programs/software used:
 - Microsoft Excel: to view csv files. Should be available by default on all PCs.
-- QuickDBD: to sketch an Entity Relationship Diagram (ERD) of the tables in the csv files. (http://www.quickdatabasediagrams.com/) No need to register, diagram can be generated on the website for free.
+- QuickDBD: to sketch an ERD of the tables for the data contained in the csv files. (http://www.quickdatabasediagrams.com/) No need to register, diagram can be generated on the website for free.
 - PostgreSQL: is a relational database management system (RDBMS). An RDBMS consists of tables and their predefined relationships. Postgres stores the data. Refer to "Installing" section below.
 - pgAdmin: The pgAdmin tool functions as the window into the database. It's where queries are written, run and then the results of running them are reviewed. pgAdmin provides access to that data. Refer to "Installing" section below.
 
