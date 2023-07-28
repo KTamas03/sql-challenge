@@ -16,8 +16,8 @@ Repository Folders and Contents:
     - queries_kt.sql
     - table_schemata_kt.sql
   - ERD:
-    - ERD - Pewlett Hackard Employees 80s and 90s.
-    - Schema Descriptions -Pewlett Hackard Employees 80s and 90s
+    - ERD - Pewlett Hackard Employees 80s and 90s.png
+    - Schema Descriptions -Pewlett Hackard Employees 80s and 90s.pdf
 ## Table of Contents
 
 - [About](#about)
