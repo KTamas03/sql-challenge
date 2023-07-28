@@ -29,7 +29,7 @@ Repository Folders and Contents:
 ## About
 The purpose of this project was to perform:
 - Data Modelling: design an Entity Relationship Diagram (ERD) of six tables to hold the data from the six CSV files (mentioned above).
-- Data engineering: import the CSV files into a new SQL database, and using sql language to manipulate data.
+- Data engineering: import the CSV files into a new SQL database, and use sql language to manipulate data.
 - Data analysis: answer some questions about the data.
 
 ## Getting Started
