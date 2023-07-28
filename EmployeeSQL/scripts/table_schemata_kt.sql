@@ -84,6 +84,7 @@ CREATE TABLE "departments" (
 
 -- STEP 2. force data style to change to american date format
 -- Note. birth_date and hire_date are in american format in the employees.csv file
+-- AskBCS Learning Assistant - 24hr assistant with date format issue, added code:
 ALTER database sql_challenge_db SET datestyle = "ISO, MDY";
 
 -- STEP 3. import csv files manually 
