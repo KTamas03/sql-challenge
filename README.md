@@ -54,9 +54,6 @@ In order to perform the Data Engineering and Analysis component of this project,
   - This folder contains the pgAdmin 4 application.
   - To confirm the installation, start pgAdmin (this will open in a new browser window). Connect to the default server by clicking on it and entering the password if prompted.
 
-## Usage
-A step by step series of examples that tell you how to get a development env running.
-
 ## Contributing
 AskBCS Learning Assistant - 24hr assistant with date format issue:
 added code: 
