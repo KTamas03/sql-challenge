@@ -1,8 +1,23 @@
 # sql-challenge
 Module 9 Challenge - SQL
 
-As a new data engineer at Pewlett Hackard (a fictional company), the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files (folder location: data > departments.csv, dep_emp.csv, dept_manager.csv, employees.csv, salaries.csv and titles.csv).
+As a new data engineer at Pewlett Hackard (a fictional company), the first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remained of the employee database from that period were six CSV files.
 
+Repository Folders and Contents:
+- EmployeeSQL:
+  - data:
+    - departments.csv
+    - dep_emp.csv
+    - dept_manager.csv
+    - employees.csv
+    - salaries.csv
+    - titles.csv
+  - scripts:
+    - queries_kt.sql
+    - table_schemata_kt.sql
+  - ERD:
+    - ERD - Pewlett Hackard Employees 80s and 90s.png
+    - Schema Descriptions -Pewlett Hackard Employees 80s and 90s.pdf
 ## Table of Contents
 
 - [About](#about)
