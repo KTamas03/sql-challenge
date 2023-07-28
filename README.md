@@ -23,7 +23,6 @@ Repository Folders and Contents:
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Installing](#installing)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## About
